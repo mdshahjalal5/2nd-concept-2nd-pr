@@ -1,0 +1,15 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.search-player{
+    padding: 15px;
+    margin-top: 7px;
+    width: 50%;
+}
+.search-btn{
+    padding: 18px;
+    border: none;
+    background: rosybrown;
+
+}

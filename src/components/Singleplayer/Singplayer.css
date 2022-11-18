@@ -1,0 +1,17 @@
+.card{
+    width:250px;
+    height: 320px;
+    border: 1px solid salmon;
+    border-radius: 5px;
+    box-shadow: 3px 3px 6px gray;
+    /* position: relative; */
+    /* display: grid; */
+}
+
+.card img{
+    max-width: 50%; 
+}
+.card button{
+    /* position: absolute; */
+    /* bottom: 0; */
+}

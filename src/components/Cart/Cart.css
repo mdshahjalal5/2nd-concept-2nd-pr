@@ -1,0 +1,15 @@
+.cart{
+    border: 1px solid gray;    
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 4px 4px 8px gray;
+    margin-top: 7px;
+}
+.cart-info{
+    display: flex;
+    /* justify-content: space-eve; */
+    text-align: center;
+}
+.cart-btn{
+    margin-left: 5px;
+}
